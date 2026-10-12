@@ -20,7 +20,7 @@ Uma ideia, tema ou título provisório (e, opcionalmente, plataforma e canais a 
 5. **Conclua** com 3 ângulos recomendados para o nosso vídeo e 5 títulos Stretch inspirados (não copiados).
 
 ## Saída
-Tabela de referências + análise + recomendações. Se chamada pelo agente `briefing`, insira na seção "Referências" do briefing; caso contrário, salve em `referencias/AAAA-MM-DD-<slug>.md`. Sempre liste as fontes com links.
+Tabela de referências + análise + recomendações. Se chamada por um agente `briefing-*`, insira na seção "Referências" do briefing; caso contrário, salve em `referencias/AAAA-MM-DD-<slug>.md`. Sempre liste as fontes com links.
 
 ## Regras
 - Traduza o que funciona para a nossa voz; não copie.

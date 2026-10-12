@@ -21,6 +21,18 @@ Referência analisada: [howtoyoutube.dev](https://howtoyoutube.dev/) ("YouTube p
 
 ---
 
+## 1.1 Trilhas de criação
+
+A criação é dividida em três trilhas, cada uma com seu agente, seu modelo de briefing e seu checklist:
+
+| Trilha | Formatos | Agente | Modelo |
+|---|---|---|---|
+| Vídeo horizontal | 16:9: YouTube longo | `briefing-video-horizontal` | `briefings/_modelo-video-horizontal.md` |
+| Vídeo vertical | 9:16: Reels, Shorts, TikTok (nativo ou corte do horizontal) | `briefing-video-vertical` | `briefings/_modelo-video-vertical.md` |
+| Criativos de imagem | Thumbnail, capa, post, carrossel, story | `briefing-criativo-imagem` | `briefings/_modelo-criativo-imagem.md` |
+
+As trilhas se conectam assim: o horizontal marca os trechos que viram vertical, e tanto o horizontal quanto o vertical pedem a thumbnail ou capa à trilha de imagem. A edição dos dois tipos de vídeo fica com o agente `edicao`.
+
 ## 2. Pipeline (estágios do quadro Kanban)
 
 ```
