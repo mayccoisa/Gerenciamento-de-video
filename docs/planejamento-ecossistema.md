@@ -43,6 +43,7 @@ Ideia → Validação → Embalagem → Roteiro → Gravação → Edição (V1,
 Cada estágio tem um **checklist de saída**, extraído do checklist do playbook. A ideia é o checklist "que se usa numa terça-feira".
 
 ### 2.1 Ideação e "content brain"
+- **Tendências → pauta** (skill `buscar-tendencias`): varredura semanal (e diária para notícias) que gera `tendencias/AAAA-MM-DD.md` com o que fazer agora, nesta semana, radar e reembalagens, já indicando trilha e agente.
 - **Banco de ideias**, com origem: trabalho do dia a dia, sala de roteiristas, outlier observado, notícia.
 - **Radar de outliers**: canais acompanhados e alerta quando um vídeo faz mais de 5× a média do canal ("um canal de 100 mil que faz 1 milhão: entenda por quê").
 - **Lista de estudo compartilhada** entre criador e editor, com meta de 4–5 h por semana e registro do que cada um assistiu.

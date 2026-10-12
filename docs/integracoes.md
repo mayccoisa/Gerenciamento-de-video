@@ -23,5 +23,6 @@ CapCut e ArtCraft rodam **na máquina onde os apps estão instalados** — use e
 | `briefing-video-vertical` | youtube, instagram (Reels/Shorts), WebSearch |
 | `briefing-criativo-imagem` | artcraft, WebSearch |
 | `edicao` | capcut (16:9 e 9:16), artcraft |
+| `buscar-tendencias` | WebSearch, youtube, instagram |
 | `buscar-referencias-video` | WebSearch, youtube |
 | `buscar-referencias-visuais` | WebSearch, artcraft (prompts) |
