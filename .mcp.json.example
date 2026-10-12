@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "capcut": {
+      "command": "node",
+      "args": ["/CAMINHO/ABSOLUTO/capcut-mcp-server-extended/src/server.js"]
+    },
+    "artcraft": {
+      "command": "node",
+      "args": ["/CAMINHO/ABSOLUTO/artcraft-mcp/dist/index.js"]
+    },
+    "youtube": {
+      "command": "node",
+      "args": ["/CAMINHO/ABSOLUTO/youtube-studio-mcp/dist/index.js"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "<preencher>",
+        "GOOGLE_CLIENT_SECRET": "<preencher>"
+      }
+    },
+    "instagram": {
+      "command": "node",
+      "args": ["/CAMINHO/ABSOLUTO/instagram-claude-mcp/dist/index.js"],
+      "env": {
+        "INSTAGRAM_ACCESS_TOKEN": "<preencher>",
+        "INSTAGRAM_BUSINESS_ACCOUNT_ID": "<preencher>"
+      }
+    }
+  }
+}
